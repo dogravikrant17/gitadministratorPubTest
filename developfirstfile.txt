@@ -1,0 +1,8 @@
+DevSecOps assessment of application for business need and current maturity
+Define target state capability maturity 
+Evangelize the virtue of DevSecOps
+Advising on branching model and path to production automation
+Design & pilot pipeline automation for apps
+Train, coach and onboard application team on the pipeline solution
+Maintaining permissions and security – including audit requirements
+Establish KPI and dashboard to measure progress on the maturity journey
