@@ -1,0 +1,8 @@
+Define of Policy & standards 
+Ensuring segregation of duties, audit processes in place and adhered to
+Define platform & automation architecture & design pattern
+Devise tooling strategy & selection
+Functional and technical roadmaps – EPIC, User stories & acceptance criteria
+Engineer DevSecOps & infra-as-code pipeline solution
+Technical debt register and reduction
+Plan & Manage Products – roadmaps
